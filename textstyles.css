@@ -24,3 +24,14 @@
     font-size: 14px;
     color: rgb(96, 96, 96);
 }
+.creative-text {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 5vw;
+    color: #252839;
+    -webkit-text-stroke: 0.3vw #aeb6d7;
+    text-transform: uppercase;
+
+}
